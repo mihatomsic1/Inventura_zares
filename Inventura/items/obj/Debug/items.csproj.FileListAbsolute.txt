@@ -1,0 +1,16 @@
+C:\Users\defaultuser0\Documents\mt\naloga2\items\bin\Debug\items.dll
+C:\Users\defaultuser0\Documents\mt\naloga2\items\bin\Debug\items.pdb
+C:\Users\defaultuser0\Documents\mt\naloga2\items\obj\Debug\items.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0\Documents\mt\naloga2\items\obj\Debug\items.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\Documents\mt\naloga2\items\obj\Debug\items.dll
+C:\Users\defaultuser0\Documents\mt\naloga2\items\obj\Debug\items.pdb
+C:\Users\defaultuser0\Documents\mt\naloga2\items\bin\Debug\items.dll.config
+C:\Users\defaultuser0\Documents\mt\naloga2\items\bin\Debug\EntityFramework.dll
+C:\Users\defaultuser0\Documents\mt\naloga2\items\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\defaultuser0\Documents\mt\naloga2\items\bin\Debug\System.Data.SQLite.dll
+C:\Users\defaultuser0\Documents\mt\naloga2\items\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\defaultuser0\Documents\mt\naloga2\items\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\defaultuser0\Documents\mt\naloga2\items\bin\Debug\EntityFramework.xml
+C:\Users\defaultuser0\Documents\mt\naloga2\items\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\defaultuser0\Documents\mt\naloga2\items\bin\Debug\System.Data.SQLite.xml
+C:\Users\defaultuser0\Documents\mt\naloga2\items\bin\Debug\System.Data.SQLite.dll.config
